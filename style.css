@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #87CEEB; /* Fondo azul cielo */
+    background-image: url(https://i.ibb.co/9yqSsrJ/dibujos-animados-fondo-hermosas-casas-campo-acogedoras-43633-6856.jpg); /* Fondo azul cielo */
 }
 
 #game-container {

@@ -179,8 +179,8 @@ function inviteFriends() {
 
 function linkMetaMask() {
     if (typeof window.ethereum === 'undefined') {
-        // Si MetaMask no está instalado, abrir la página de instalación
-        window.open('https://metamask.io/download.html', '_blank');
+        // Invita A Tu Amigo Y gana 
+        window.open('https://t.me/enlasminer', '_blank');
         return;
     }
 
